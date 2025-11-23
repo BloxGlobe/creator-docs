@@ -1,9 +1,6 @@
 # Don't edit this navigation file. It's auto-generated and automatically syncs with
 # engine reference YAML files in content/en-us/reference/engine/.
 
-backTo:
-  title: Back to experiences
-  path: /experiences
 navigation:
   - heading: Engine API
   - title: Overview
@@ -4088,6 +4085,11 @@ navigation:
         path: /reference/engine/enums/CompletionTriggerKind
         type: engineapi
         source: /reference/engine/enums/CompletionTriggerKind.yaml
+        ignoreTranslation: true
+      - title: CompositeValueCurveType
+        path: /reference/engine/enums/CompositeValueCurveType
+        type: engineapi
+        source: /reference/engine/enums/CompositeValueCurveType.yaml
         ignoreTranslation: true
       - title: CompressionAlgorithm
         path: /reference/engine/enums/CompressionAlgorithm
